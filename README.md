@@ -13,10 +13,3 @@
 Isso é um **texto**. Isso é *outro* texto.
 
 [Link](www.google.com)
-
-![Imagem](www.google.com/imagem.png)
-
-
-
-
-
